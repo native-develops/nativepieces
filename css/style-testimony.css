@@ -1,0 +1,91 @@
+
+
+.testimonial-wrap .owl-stage-outer {
+  padding-top: 5rem;
+  padding-bottom: 5rem; }
+
+.testimonial-v1 {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #f8f9fa;
+  -webkit-transition: .3s all ease;
+  -o-transition: .3s all ease;
+  transition: .3s all ease;
+  position: relative;
+  border-radius: 10px; }
+  .testimonial-v1 img {
+    width: 80px !important;
+    border-radius: 50%;
+    margin: 0 auto 20px auto;
+    margin-top: -70px;
+    border: 3px solid #0389ff!important;
+  }
+  .testimonial-v1 h3 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #000000;
+    line-height: 1; }
+  .testimonial-v1 p {
+    font-size: 14px; }
+  .testimonial-v1 .caption {
+    font-size: 13px; }
+  .testimonial-v1:hover {
+    border-color: #0389ff; }
+
+
+
+
+
+
+
+
+.owl-single.dots-absolute .owl-dots, .owl-carousel.dots-absolute .owl-dots {
+  bottom: 40px; }
+  .owl-single.dots-absolute .owl-dots .owl-dot span, .owl-carousel.dots-absolute .owl-dots .owl-dot span {
+    background: rgba(255, 255, 255, 0.5); }
+
+.owl-single .owl-dots, .owl-carousel .owl-dots {
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%); }
+  .owl-single .owl-dots .owl-dot, .owl-carousel .owl-dots .owl-dot {
+    display: inline-block;
+    margin: 5px; }
+    .owl-single .owl-dots .owl-dot span, .owl-carousel .owl-dots .owl-dot span {
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: rgba(0, 0, 0, 0.2); }
+    .owl-single .owl-dots .owl-dot.active span, .owl-carousel .owl-dots .owl-dot.active span {
+      background: #0389ff; }
+
+.owl-single.no-dots .owl-dots, .owl-carousel.no-dots .owl-dots {
+  display: none; }
+
+.owl-single.no-nav .owl-nav, .owl-carousel.no-nav .owl-nav {
+  display: none; }
+
+.testimonial {
+  max-width: 500px;
+  text-align: center;
+  margin-bottom: 30px; }
+  .testimonial .name {
+    font-size: 18px;
+    color: #000000; }
+  .testimonial .img-wrap img {
+    margin: 0 auto;
+    width: 70px;
+    border-radius: 50%; 
+   
+  
+  }
+
+.owl-nav {
+  display: none;
+}
+
