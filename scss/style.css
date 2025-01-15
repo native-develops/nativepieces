@@ -4104,7 +4104,7 @@ textarea.form-control-lg {
   border-bottom-width: 0;
 }
 .accordion-button:not(.collapsed) {
-  color: #0389ff;
+  color: #e64444;
   background-color: #ffeded;
 }
 .accordion-button:not(.collapsed)::after {
