@@ -8,7 +8,9 @@ for (let i = 1; i <= 69; i++) {
     col.setAttribute("class", "col-md-6 col-lg-4 d-flex align-items-start")
     col.innerHTML += `
 
-        <img src="./images/gallery/work_image (${i}).jpg" alt="Image" class="img-fluid img_contain">
+  
+        <img src="./images/gallery/work_image (${i}).jpg" alt="Image" class="img-fluid img_contain" loading="lazy">
+
 
     `
     
