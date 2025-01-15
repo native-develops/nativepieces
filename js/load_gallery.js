@@ -9,7 +9,7 @@ for (let i = 1; i <= 69; i++) {
     col.innerHTML += `
 
   
-        <img src="./images/gallery/work_image (${i}).jpg" alt="Image" class="img-fluid img_contain" loading="lazy">
+        <img src="./images/gallery/work_image (${i}).webp" alt="Image" class="img-fluid img_contain" loading="lazy">
 
 
     `
