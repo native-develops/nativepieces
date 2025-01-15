@@ -9044,6 +9044,7 @@ a {
     color: #000; }
 
 .hero, .bg-image {
+  
   background-color: #000;
   background-size: cover;
   background-position: center center;
@@ -9842,6 +9843,7 @@ a {
   object-fit: cover;
   position: relative;
   filter: blur(1px);
+  filter: brightness(0.5);
 
 }
 
